@@ -24,4 +24,4 @@ A simple Python command-line tool to help students follow a Data Science learnin
 ## 📂 How to Run
 
 ```bash
-python Data-Science-Learning-Guide.py
+python data-science-learning-guide.py
